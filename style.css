@@ -1,0 +1,60 @@
+
+.profile-image img {
+    border-radius: 50%; /* To make the image completely round */
+    
+}
+
+.hero-section {
+    background-color:#557A95; /* Your desired background color */
+    color: #fff; /* Text color for better contrast */
+    padding: 100px 0; /* Adjust the padding to control the vertical positioning */
+    text-align: center; /* Center the content vertically and horizontally */
+}
+
+.hero-section .container {
+    height: 100%;
+}
+
+.hero-section h1,
+.hero-section p,
+.hero-section a {
+    margin: 0;
+}
+
+.hero-section .row {
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+.full-width {
+    width: 100%;
+    padding: 20%;
+    margin: 0%;
+}
+
+.skills{
+   
+    
+    background-color: #33566b; /* Use the desired color code */
+    color: #fff; /* Set text color to white for better contrast */
+}
+.hobbies{
+   
+    
+    background-color: #557A95; /* Use the desired color code */
+    color: #fff; /* Set text color to white for better contrast */
+
+}
+.card-hobby{
+    height: 100%;
+}
+
+.card-img-top{
+    height: 60%;
+}
+.contact{
+   
+    
+    background-color: #33566B; /* Use the desired color code */
+    color: #fff; /* Set text color to white for better contrast */
+}
